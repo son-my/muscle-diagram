@@ -1,0 +1,1 @@
+//Pull info from api (powerstats, image, and name)

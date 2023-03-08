@@ -1,0 +1,25 @@
+body{
+    background-color: #E9C529;
+}
+
+#player1{
+    border: solid white;
+}
+
+#player2{
+    border: solid black;
+    
+}
+
+#player-container{
+    display: flex;
+    justify-content: space-around ;
+    max-height:505px;
+    
+}
+
+img {
+    height:500px;
+    width:350px;
+    object-fit: cover;
+  }
